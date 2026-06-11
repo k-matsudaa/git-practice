@@ -2,14 +2,11 @@ version: '3.8'
 
 services:
   node-app:
-    # Node.jsの公式テンプレート（バージョン20）を使用
-    image: node:20
-    # コンテナの起動時に、パッケージをインストールしてサーバーを起動する命令
-    # nodeコマンドの代わりに、ファイルの変更を監視する「npx nodemon」を使う
-    command: sh -c "npm install && npx nodemon server.js"
+    # image: node:20 の代わりに、上の「Dockerfileを使ってビルドしてね」と指定する
+    build: .
+    # 起動コマンドから「npm install」を削除し、nodemonの起動だけに集中させる
+    command: npx nodemon server.js
     ports:
       - "3000:3000"
     volumes:
       - .:/app
-    # コンテナの中の作業部屋を「/app」に指定
-    working_dir: /app
