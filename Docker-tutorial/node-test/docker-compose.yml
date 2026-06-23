@@ -1,22 +1,21 @@
-version: '3.8'
-
 services:
+  # 1. Node.js アプリ
   node-app:
-    # image: node:20 の代わりに、上の「Dockerfileを使ってビルドしてね」と指定する
     build: .
-    # 起動コマンドから「npm install」を削除し、nodemonの起動だけに集中させる
     command: npx nodemon server.js
     ports:
       - "3000:3000"
     volumes:
       - .:/app
-  
-  # データベース (MySQL)
+      - /app/node_modules # ★この1行を必ず追加してください！
+    depends_on:
+      - db
+
+  # 2. データベース (MySQL)
   db:
     image: mysql:8.0
     restart: always
     environment:
-      # DBの初期設定（環境変数）
       MYSQL_ROOT_PASSWORD: password
       MYSQL_DATABASE: my_app_db
       MYSQL_USER: user
@@ -25,5 +24,6 @@ services:
       - "3306:3306"
     volumes:
       - db-data:/var/lib/mysql
+
 volumes:
   db-data:
