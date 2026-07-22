@@ -1,0 +1,29 @@
+version: '3.8'
+
+services:
+  # Webサーバー
+  web:
+    image: nginx:latest
+    ports:
+      - "8080:80"
+    volumes:
+      - ./index.html:/usr/share/nginx/html/index.html
+
+  # データベース (MySQL)
+  db:
+    image: mysql:8.0
+    restart: always
+    environment:
+      # DBの初期設定（環境変数）
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: my_app_db
+      MYSQL_USER: user
+      MYSQL_PASSWORD: password
+    ports:
+      - "3306:3306"
+    volumes:
+      - db-data:/var/lib/mysql
+
+# 名前付きVolumeの定義
+volumes:
+  db-data:

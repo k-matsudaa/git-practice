@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>株式会社グラッドキューブ</title>
+  <meta name="description" content="グラッドキューブでは、多くのお客様に貢献し、喜びの輪を広げていくため、「圧倒的にデジタルマーケティングに強い会社」を創り、国内トップシェアを誇るインターネット広告事業とサイト解析・改善・開発を駆使して新たなステージへと挑戦し続けます。">
+
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-55368K2');</script>
+<!-- End Google Tag Manager -->
+  <meta name="format-detection" content="telephone=no">
+<meta property="og:title" content="株式会社グラッドキューブ">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://corp.glad-cube.com/">
+<meta property="og:image" content="https://corp.glad-cube.com/_assets/common/images/ogp.png">
+<meta name="twitter:site" content="@Glad_Cube">
+<meta property="fb:app_id" content="417225475462417">
+<meta name="twitter:creator" content="@Glad_Cube">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://corp.glad-cube.com/_assets/common/images/ogp.png">
+<meta name="twitter:description" content="グラッドキューブでは、多くのお客様に貢献し、喜びの輪を広げていくため、「圧倒的にデジタルマーケティングに強い会社」を創り、国内トップシェアを誇るインターネット広告事業とサイト解析・改善・開発を駆使して新たなステージへと挑戦し続けます。">
+<link rel="shortcut icon" href="/favicon.ico">
+
+<!-- fonts -->
+<link rel="preconnect" href="//fonts.googleapis.com">
+<link rel="preconnect" href="//fonts.gstatic.com" crossorigin>
+<link href="//fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="//use.typekit.net/ekj1snt.css">
+<!-- styles -->
+<link rel="stylesheet" href="/_assets/common/css/ress.css">
+<link rel="stylesheet" href="/_assets/common/css/comp.css?update=20260106">
+<link rel="stylesheet" href="/_assets/common/css/inc.css">
+  
+  <!-- ページ用 -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+  <link rel="stylesheet" href="/_assets/eir/eir.css">
+  <link rel="stylesheet" href="/_assets/css/top.css">
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-55368K2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script src="https://d.shutto-translation.com/trans.js?id=79134"></script>
+<header id="totop">
+  <div class="header-main">
+    <div class="header-logoArea">
+      <h1><a href="/"><img src="/_assets/common/images/logo-gc.svg" alt="GladCube"></a></h1>
+      <ul class="current-site">
+        <li class="is-current"><a href="/">コーポレート</a></li>
+        <li class="site-service"><a href="https://www.glad-cube.com/">サービス</a></li>
+      </ul>
+    </div>
+    <div class="header-menuArea">
+      <div class="header-menuArea-btn"></div>
+      <nav>
+        <ul>
+          <li class="header-menu-btn"><a href="/news/">NEWS</a></li>
+          <li class="header-menu-btn" data-cat="company"><a href="/company/">企業情報</a></li>
+          <li class="header-menu-btn"><a href="/company/service/">事業</a></li>
+          <li class="header-menu-btn"><a href="/sustainability/">サステナビリティ</a></li>
+          <li class="header-menu-btn" data-cat="ir"><a href="/ir/">IR</a></li>
+          <li class="header-menu-btn" data-cat="recruit"><a href="/recruit/">採用</a></li>
+          <li class="header-menu-btn"><a href="/company/toiawase_corp.html">お問い合わせ</a></li>
+        </ul>
+      </nav>
+      <div class="lang" id="lang-switch">
+        <p class="l-en" data-stt-changelang="en">EN</p>
+        <p class="l-jp" data-stt-changelang="ja">JP</p>
+      </div>
+    </div>
+    <div class="sp1220">
+      <div class="sp-header-nav-btn"></div>
+      <div class="lang" id="lang-switch">
+        <p class="l-en l-en-sp" data-stt-changelang="en">EN</p>
+        <p class="l-jp l-jp-sp" data-stt-changelang="ja">JP</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="header_sub-menu">
+    <div class="inner-menu inner-menu-company">
+      <div class="inner-menu-title">
+        <h2 class="inner-menu-ttl">Company</h2>
+        <p class="inner-menu-sttl">企業情報</p>
+      </div>
+      <ul class="inner-menu-links">
+        <li><a href="/company/vision/"><span>ビジョン</span></a></li>
+        <li><a href="/company/top-message/"><span>トップメッセージ</span></a></li>
+        <li><a href="/company/outline/"><span>会社概要</span></a></li>
+        <li><a href="/company/history/"><span>沿革</span></a></li>
+        <li><a href="/company/chief-introduction/"><span>役員紹介</span></a></li>
+        <li><a href="/company/value-way/"><span>GC WAY</span></a></li>
+        <li><a href="/company/sports-support/"><span>SPORTS SUPPORT</span></a></li>
+      </ul>
+    </div>
+    <div class="inner-menu inner-menu-ir">
+      <div class="inner-menu-title">
+        <h2 class="inner-menu-ttl">IR</h2>
+        <p class="inner-menu-sttl">IR情報</p>
+      </div>
+      <ul class="inner-menu-links">
+        <li><a href="/ir/"><span>IR情報TOP</span></a></li>
+        <li><a href="/ir/governance/"><span>コーポレート・ガバナンス</span></a></li>
+        <li><a href="/ir/management/"><span>事業展開</span></a></li>
+        <li><a href="/ir/news/"><span>IRニュース</span></a></li>
+        <li><a href="/ir/library/"><span>IRライブラリ</span></a></li>
+        <li><a href="/ir/stock/"><span>株式基本情報</span></a></li>
+        <li><a href="/ir/calendar/"><span>IRカレンダー・イベント</span></a></li>
+        <li><a href="/ir/faq/"><span>よくあるご質問</span></a></li>
+        <li><a href="/ir/irmovie/"><span>IRムービー</span></a></li>
+      </ul>
+    </div>
+    <!-- <div class="inner-menu inner-menu-recruit">
+      <div class="inner-menu-title">
+        <h2 class="inner-menu-ttl">Recruit</h2>
+        <p class="inner-menu-sttl">採用</p>
+      </div>
+      <ul class="inner-menu-links">
+        <li><a href="https://www.wantedly.com/companies/glad-cube/stories" target="_blank"><span>News</span></a></li>
+        <li><a href="/recruit/job/"><span>職種紹介</span></a></li>
+        <li><a href="/recruit/benefits/"><span>福利厚生</span></a></li>
+        <li><a href="/recruit/message/"><span>人を知る</span></a></li>
+        <li><a href="/recruit/faq/"><span>よくある質問</span></a></li>
+        <li><a href="https://job.mynavi.jp/27/pc/search/corp206403/outline.html" target="_blank"><span>エントリー</span></a></li>
+        <li><a href="https://www.glad-cube.com/recruit/fresh/" target="_blank"><span>新卒採用</span></a></li>
+      </ul>
+    </div> -->
+  </div>
+
+  <div class="sp-inner-menu">
+    <div class="sp-inner-menu-links-wrap">
+      <div class="sp-inner-menu-rows">
+        <p class="sp-inner-menu-link bt-none"><a href="/">TOP</a></p>
+        <p class="sp-inner-menu-link"><a href="/news/">NEWS</a></p>
+        <p class="acc-links sp-inner-menu-link">企業情報</p>
+        <ul class="acc-body">
+          <li><a href="/company/">企業情報 TOP</a></li>
+          <li><a href="/company/vision/">ビジョン</a></li>
+          <li><a href="/company/top-message/">トップメッセージ</a></li>
+          <li><a href="/company/outline/">会社概要</a></li>
+          <li><a href="/company/history/">沿革</a></li>
+          <li><a href="/company/chief-introduction/">役員紹介</a></li>
+          <li><a href="/company/value-way/">GC WAY</a></li>
+          <li><a href="/company/sports-support/">SPORTS SUPPORT</a></li>
+        </ul>
+        <p class="sp-inner-menu-link"><a href="/company/service/">事業</a></p>
+        <p class="sp-inner-menu-link"><a href="/sustainability/">サステナビリティ</a></p>
+      <!-- </div>
+      <div class="sp-inner-menu-rows"> -->
+        <p class="acc-links sp-inner-menu-link">IR情報</p>
+        <ul class="acc-body">
+          <li><a href="/ir/">IR情報 TOP</a></li>
+          <li><a href="/ir/governance/">コーポレート・ガバナンス</a></li>
+          <li><a href="/ir/management/">事業展開</a></li>
+          <li><a href="/ir/news/">IRニュース</a></li>
+          <li><a href="/ir/library/">IRライブラリ</a></li>
+          <li><a href="/ir/stock/">株式基本情報</a></li>
+          <li><a href="/ir/calendar/">IRカレンダー・イベント</a></li>
+          <li><a href="/ir/faq/">よくあるご質問</a></li>
+          <li><a href="/ir/irmovie/">IRムービー</a></li>
+        </ul>
+      <!-- </div>
+      <div class="sp-inner-menu-rows"> -->
+        <p class="sp-inner-menu-link"><a href="/recruit/">採用情報</a></p>
+        <!-- <p class="sp-inner-menu-link">採用情報</p> -->
+        <!-- <p class="acc-links sp-inner-menu-link">採用情報</p> -->
+        <!-- <ul class="acc-body">
+          <li><a href="/recruit/">採用情報 TOP</a></li>
+          <li><a href="https://www.wantedly.com/companies/glad-cube/stories" target="_blank">News</a></li>
+          <li><a href="/recruit/job/">職種紹介</a></li>
+          <li><a href="/recruit/benefits/">福利厚生</a></li>
+          <li><a href="/recruit/message/">人を知る</a></li>
+          <li><a href="/recruit/faq/">よくある質問</a></li>
+          <li><a href="https://job.mynavi.jp/27/pc/search/corp206403/outline.html" target="_blank">エントリー</a></li>
+          <li><a href="https://www.glad-cube.com/recruit/fresh/" target="_blank">新卒採用</a></li>
+        </ul> -->
+      </div>
+      <div class="sp-inner-menu-rows">
+        <p class="sp-inner-menu-link"><a href="/company/toiawase_corp.html">お問い合わせ</a></p>
+        <p class="sp-inner-menu-sq-link js-slideBtnText"><a href="https://www.glad-cube.com" target="_blank"><span>サービス TOP</span></a></p>
+      </div>
+    </div>
+  </div>
+</header>
+
+  <section class="fv">
+    <div class="movie pcb">
+      <video id="fv-video" src="/_assets/images/top/createglad.mp4" loop muted autoplay playsinline></video>
+    </div>
+    <div class="movie spb">
+      <video id="fv-video" src="/_assets/images/top/createglad_sp.mp4" loop muted autoplay playsinline></video>
+    </div>
+    <div class="fv-text">
+      <figure><img src="/_assets/images/top/fv-text.svg" alt=""></figure>
+    </div>
+  </section>
+
+  <main>
+    <section class="main-read view fade_off">
+      <h2><img src="/_assets/images/top/main-read.svg" alt="「世界基準」の最新テクノロジーで、あなたの可能性を最大に。" class="pcb"><img src="/_assets/images/top/main-read-sp.svg" alt="「世界基準」の最新テクノロジーで、あなたの可能性を最大に。" class="spb"></h2>
+    </section>
+
+    <section class="section-block block-ir view fade_off">
+      <div class="block-title">
+        <h3 class="title-section"><img src="/_assets/images/top/title-ir.svg" alt="IR NEWS"></h3>
+        <p class="title-link pcb"><a href="/ir/news/" class="btn-base btn-revers gap-12"><span>IR ニュース一覧</span></a></p>
+      </div>
+
+      <!-- E-IR Parts -->
+      <div class="eir" data-area-name="area_top_001"></div>
+      <!-- <div class="eir" data-area-name="area_top_002"></div> -->
+      <script type="text/javascript" src="/_assets/eir/eir_v5.js" charset="utf-8"></script>
+      <script type="text/javascript">
+      scriptLoader.setSrc(eirPassCore + 'eir_common.js');
+      scriptLoader.load(
+      function(){setParts('file_top_002');  }, showMaintenanceMessage);
+      </script>
+      <!-- /E-IR Parts -->
+
+      <p class="title-link spi"><a href="/ir/news/" class="btn-base gap-8"><span>IR ニュース一覧</span></a></p>
+    </section>
+
+    <section class="section-block block-news view fade_off">
+      <div class="block-title">
+        <h3 class="title-section"><img src="/_assets/images/top/title-news.svg" alt="NEWS"></h3>
+        <p class="title-link pcb"><a href="/news/" class="btn-base btn-revers gap-12"><span>ニュース一覧</span></a></p>
+      </div>
+      <div id="newsArticleBlock">
+      </div>
+      <p class="title-link spi"><a href="/news/" class="btn-base gap-8"><span>ニュース一覧</span></a></p>
+    </section>
+
+    <section class="section-block block-service view fade_off">
+      <div class="block-title">
+        <h3 class="title-section"><img src="/_assets/images/top/title-service.svg" alt="service"></h3>
+        <p class="title-link pcb"><a href="/company/service/" class="btn-base btn-revers gap-12 btn-white"><span>サービス一覧</span></a></p>
+      </div>
+      <div class="service-list">
+        <figure class="service-img"><img src="/_assets/images/top/service-img01.png" alt=""></figure>
+        <div class="service-info">
+          <h4 class="service-acc">デジタルマーケティング</h4>
+          <div class="sp-acc">
+            <h5>成果を最大化する統合デジタル戦略</h5>
+            <p class="service-info-read">Google/Yahoo!などで多数の受賞実績を持つ確かな広告運用力と、自社開発のサイト解析・改善SaaS「SiTest（サイテスト）」を連携。<br>
+              データ解析とAI技術を駆使し、集客からLPO/CROまでを一気通貫で支援します。<br>
+              顧客の事業成長を多角的にサポートする、成果直結型のデジタルマーケティングを提供します。</p>
+            <p class="service-info-link"><a href="/company/service/#anq-service01" class=""><span>デジタルマーケティング詳細ページ</span></a></p>
+          </div>
+        </div>
+      </div>
+      <div class="service-list">
+        <figure class="service-img"><img src="/_assets/images/top/service-img02.png" alt=""></figure>
+        <div class="service-info">
+          <h4 class="service-acc">EdTech</h4>
+          <div class="sp-acc">
+            <h5>実務直結型のWeb・AI人材育成</h5>
+            <p class="service-info-read">「リスナビ」ブランドのもと、Webマーケティング人材の育成とリスキリングを支援しています。<br>
+              現役のプロが教える実務直結型の学習プログラムを展開し、未経験からの転職・副業スタートをサポート。<br>
+              最新の生成AI技術を業務に応用するための法人向け研修も提供し、DX人材の育成に貢献します。</p>
+            <p class="service-info-link"><a href="/company/service/#anq-service02" class=""><span>EdTech 詳細ページ</span></a></p>
+          </div>
+        </div>
+      </div>
+      <div class="service-list">
+        <figure class="service-img"><img src="/_assets/images/top/service-img03.png" alt=""></figure>
+        <div class="service-info">
+          <h4 class="service-acc">DX開発</h4>
+          <div class="sp-acc">
+            <h5>AIとテクノロジーで革新的なDX</h5>
+            <p class="service-info-read">最先端のAI技術を核に、企業のデジタルトランスフォーメーション（DX）を推進。<br>
+              AIアバターによる多言語動画生成「AvaTwin（アバツイン）」や、生成AIを活用した受託開発、クラウド導入支援など、革新的なソリューションを提供します。<br>
+              データ解析力と開発力を強みに、新たな事業領域での価値創造を目指します。</p>
+            <p class="service-info-link"><a href="/company/service/#anq-service03" class=""><span>DX開発 詳細ページ</span></a></p>
+          </div>
+        </div>
+      </div>
+      <div class="service-list">
+        <figure class="service-img"><img src="/_assets/images/top/service-img05.png" alt=""></figure>
+        <div class="service-info">
+          <h4 class="service-acc">SportsTech</h4>
+          <div class="sp-acc">
+            <h5>AI×データ解析でスポーツに革新</h5>
+            <p class="service-info-read">AIと独自のデータ解析技術を駆使し、スポーツの新しい観戦・予想方法を提供します。<br>
+              総合メディア「SPAIA」とAI競馬予想「SPAIA競馬」を運営し、データにもとづく新しいスポーツの楽しみ方を提案。<br>
+              また、データセンターを通じて、BtoBでスポーツデータの取得・解析ソリューションも展開しています。</p>
+            <p class="service-info-link"><a href="/company/service/#anq-service04" class=""><span>SportsTech詳細ページ</span></a></p>
+          </div>
+        </div>
+      </div>
+      <p class="title-link spi"><a href="/company/service/" class="btn-base gap-8 btn-black"><span>サービス一覧</span></a></p>
+    </section>
+
+    <section class="section-block block-recruit view fade_off">
+      <div class="block-title">
+        <h3 class="title-section"><img src="/_assets/images/top/title-recruit.svg" alt="recruit"></h3>
+        <p class="title-link pcb"><a href="/recruit/" class="btn-base btn-revers gap-12"><span>採用サイトへ</span></a></p>
+      </div>
+      <p class="recruit-read">未来を変革するのは、<span>君</span>だ。</p>
+      <p class="recruit-subread">It's up to you to change the future.</p>
+      <div class="fv-slide-all">
+        <div class="fv-slide-all-inner">
+          <img src="/_assets/images/recruit/top/fv-img-all.png" alt=""><img src="/_assets/images/recruit/top/fv-img-all.png" alt="">
+        </div>
+      </div>
+      <p class="title-link spi"><a href="/recruit/" class="btn-base gap-8"><span>採用サイトへ</span></a></p>
+    </section>
+
+    <section class="section-block block-about view fade_off">
+      <div class="block-title">
+        <h3 class="title-section"><img src="/_assets/images/top/title-about.svg" alt="aboutUs"></h3>
+        <p class="title-link pcb"><a href="/company/" class="btn-base btn-revers gap-12"><span>企業情報</span></a></p>
+      </div>
+      <p class="title-link spi"><a href="/company/" class="btn-base gap-8"><span>企業情報 </span></a></p>
+      <figure class="logo_float"><img src="/_assets/images/top/gc-cube-logo.svg" alt=""></figure>
+    </section>
+
+    <section class="section-block block-sustainability view fade_off">
+      <div class="block-title">
+        <h3 class="title-section p-abs"><img src="/_assets/images/top/title-sustainability.svg" alt="sustainability"></h3>
+        <p class="title-link pcb"><a href="/sustainability/" class="btn-base btn-revers gap-12"><span>サステナビリティ</span></a></p>
+      </div>
+      <p class="title-link spi"><a href="/sustainability/" class="btn-base gap-8"><span>サステナビリティ</span></a></p>
+    </section>
+
+    <section class="section-block block-brand view fade_off">
+      <div class="brand-wrap">
+        <div class="swiper">
+          <ul class="swiper-wrapper">
+            <li class="swiper-slide">
+              <a href="https://www.glad-cube.com/" target="_blank">
+                <p class="service-name">広告運用代行</p>
+                <figure class="service-img service-img-default"><img src="/_assets/common/images/service-img-dm.png" alt=""></figure>
+              </a>
+            </li>
+            <li class="swiper-slide">
+              <a href="https://www.glad-cube.com/service/website.html" target="_blank">
+                <p class="service-name">Webサイト制作</p>
+                <figure class="service-img service-img-default"><img src="/_assets/common/images/service-img-wd.png" alt=""></figure>
+              </a>
+            </li>
+            <li class="swiper-slide">
+              <a href="https://www.glad-cube.com/service/consulting.html" target="_blank">
+                <p class="service-name">Webコンサルティング</p>
+                <figure class="service-img service-img-default"><img src="/_assets/common/images/service-img-wc.png" alt=""></figure>
+              </a>
+            </li>
+            <li class="swiper-slide">
+              <a href="https://sitest.jp/" target="_blank">
+                <p class="service-name">SiTest（サイテスト）</p>
+                <figure class="service-img service-img-sitest"><img src="/_assets/common/images/service-img-sitest.png" alt=""></figure>
+              </a>
+            </li>
+            <li class="swiper-slide">
+              <a href="https://engage.sitest.jp/lp/" target="_blank">
+                <p class="service-name">SiTest Eengage（サイテストエンゲージ）</p>
+                <figure class="service-img service-img-sitest"><img src="/_assets/common/images/service-img-sitestengage.png" alt=""></figure>
+              </a>
+            </li>
+            <li class="swiper-slide">
+              <a href="https://fastest.jp/" target="_blank">
+                <p class="service-name">FasTest（ファーステスト）</p>
+                <figure class="service-img service-img-fastest"><img src="/_assets/common/images/service-img-fastest.png" alt=""></figure>
+              </a>
+            </li>
+            <li class="swiper-slide">
+              <a href="https://swipage.jp/" target="_blank">
+                <p class="service-name">SwiPage（スワイページ）</p>
+                <figure class="service-img service-img-swipage"><img src="/_assets/common/images/service-img-swipage.png" alt=""></figure>
+              </a>
+            </li>
+            <li class="swiper-slide">
+              <a href="https://www.glad-cube.com/service/llmoa/" target="_blank">
+                <p class="service-name">LLMO・AIO対策サービス／LLMOA（エルモア）</p>
+                <figure class="service-img service-img-llmoa"><img src="/_assets/common/images/service-img-llmoa.png" alt=""></figure>
+              </a>
+            </li>
+            <li class="swiper-slide">
+              <a href="https://www.glad-cube.com/service/video_production.html" target="_blank">
+                <p class="service-name">動画広告制作・運用代行</p>
+                <figure class="service-img service-img-default"><img src="/_assets/common/images/service-img-vm.png" alt=""></figure>
+              </a>
+            </li>
+            <li class="swiper-slide">
+              <a href="https://www.glad-cube.com/service/dravis/" target="_blank">
+                <p class="service-name">縦型ショートドラマ制作／Dra Vis（ドラビス）</p>
+                <figure class="service-img service-img-dravis"><img src="/_assets/common/images/service-img-dravis.png" alt=""></figure>
+              </a>
+            </li>
+            <li class="swiper-slide">
+              <a href="https://www.glad-cube.com/insightcube/" target="_blank">
+                <p class="service-name">INSIGHT CUBE（インサイトキューブ）</p>
+                <figure class="service-img service-img-insightcube"><img src="/_assets/common/images/service-img-insightcube.png" alt=""></figure>
+              </a>
+            </li>
+            <li class="swiper-slide">
+              <a href="https://www.glad-cube.com/service/cloudserver/" target="_blank">
+                <p class="service-name">Alibaba Cloud 請求代行</p>
+                <figure class="service-img service-img-default"><img src="/_assets/common/images/service-img-alibaba.png" alt=""></figure>
+              </a>
+            </li>
+            <li class="swiper-slide">
+              <a href="https://courses.resnavi.jp/" target="_blank">
+                <p class="service-name">リスナビ_個人向け</p>
+                <figure class="service-img service-img-risnavi"><img src="/_assets/common/images/service-img-risnavi01.png" alt=""></figure>
+              </a>
+            </li>
+            <li class="swiper-slide">
+              <a href="https://www.glad-cube.com/service/reskilling.html" target="_blank">
+                <p class="service-name">リスナビ_法人向け</p>
+                <figure class="service-img service-img-risnavi"><img src="/_assets/common/images/service-img-risnavi02.png" alt=""></figure>
+              </a>
+            </li>
+            <li class="swiper-slide">
+              <a href="https://www.glad-cube.com/service/reskilling_generativeai.html" target="_blank">
+                <p class="service-name">リスナビe-ラーニング</p>
+                <figure class="service-img service-img-risnavi"><img src="/_assets/common/images/service-img-risnavi03.png" alt=""></figure>
+              </a>
+            </li>
+            <li class="swiper-slide">
+              <a href="https://www.glad-cube.com/service/avatwin-ir/" target="_blank">
+                <p class="service-name">AvaTwin</p>
+                <figure class="service-img service-img-avatwin"><img src="/_assets/common/images/service-img-avatwin.png" alt=""></figure>
+              </a>
+            </li>
+            <li class="swiper-slide">
+              <a href="https://www.glad-cube.com/service/ai-support/" target="_blank">
+                <p class="service-name">AI・DX導入支援</p>
+                <figure class="service-img service-img-default"><img src="/_assets/common/images/service-img-ad.png" alt=""></figure>
+              </a>
+            </li>
+            <li class="swiper-slide">
+              <a href="https://spaia.jp/" target="_blank">
+                <p class="service-name">SPAIA</p>
+                <figure class="service-img service-img-spaia"><img src="/_assets/common/images/service-img-spaia.png" alt=""></figure>
+              </a>
+            </li>
+            <li class="swiper-slide">
+              <a href="https://spaia-keiba.com/" target="_blank">
+                <p class="service-name">SPAIA競馬</p>
+                <figure class="service-img service-img-spaiakeiba"><img src="/_assets/common/images/service-img-spaiakeiba.png" alt=""></figure>
+              </a>
+            </li>
+            <li class="swiper-slide">
+              <a href="https://dragon-dc.com/" target="_blank">
+                <p class="service-name">DRAGON DATA CENTER</p>
+                <figure class="service-img service-img-dragon"><img src="/_assets/common/images/service-img-dragon.png" alt=""></figure>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+      </div>
+    </section>
+  </main>
+
+<footer>
+  <div class="footer-links-wrap">
+    <div class="footer-rows-wrap">
+      <div class="footer-rows">
+        <p class="footer-link nb"><a href="/">TOP</a></p>
+        <p class="footer-link"><a href="/news/">NEWS</a></p>
+        <p class="acc-links footer-acc mb4">企業情報</p>
+        <ul class="acc-body ob">
+          <li><a href="/company/">企業情報 TOP</a></li>
+          <li><a href="/company/vision/">ビジョン</a></li>
+          <li><a href="/company/top-message/">トップメッセージ</a></li>
+          <li><a href="/company/outline/">会社概要</a></li>
+          <li><a href="/company/history/">沿革</a></li>
+          <li><a href="/company/chief-introduction/">役員紹介</a></li>
+          <li><a href="/company/value-way/">GC WAY</a></li>
+          <li><a href="/company/sports-support/">SPORTS SUPPORT</a></li>
+        </ul>
+      </div>
+      <div class="footer-rows">
+        <p class="footer-link add-mt"><a href="/company/service/">事業</a></p>
+        <p class="acc-links footer-acc mb4">サステナビリティ</p>
+        <ul class="acc-body">
+          <li><a href="/sustainability/">サステナビリティ TOP</a></li>
+          <li><a href="/sustainability/esg/">環境・社会・企業統治</a></li>
+        </ul>
+        <p class="footer-link"><a href="/ir/">IR情報</a></p>
+        <p class="footer-link"><a href="/recruit/">採用情報</a></p>
+        <p class="footer-link sp-bb"><a href="/company/toiawase_corp.html">お問い合わせ</a></p>
+      </div>
+    </div>
+    <div class="footer-rows add-mt">
+      <p class="footer-sq-link"><a href="https://www.glad-cube.com/" target="_blank">サービス TOP</a></p>
+      <ul class="footer-social">
+        <li><a href="https://x.com/Glad_Cube" target="_blank"><img src="/_assets/common/images/icon-x.svg" alt=""></a></li>
+        <li><a href="https://ja-jp.facebook.com/gladcube.fan" target="_blank"><img src="/_assets/common/images/icon-facebook.svg" alt=""></a></li>
+        <li><a href="https://www.youtube.com/c/GladCubeTV" target="_blank"><img src="/_assets/common/images/icon-youtube.svg" alt=""></a></li>
+        <li><a href="https://www.tiktok.com/@gladcube_tiktok?_t=8VhQihyUYja&_r=1" target="_blank"><img src="/_assets/common/images/icon-tictok.svg" alt=""></a></li>
+      </ul>
+      <ul class="isms pcb">
+        <li><figure><a href="https://privacymark.jp/" target="_blank"><img src="/_assets/common/images/mark-pp.svg" alt="たいせつにしますプライバシー"></a></figure></li>
+        <li><figure><img src="/_assets/common/images/mark-isms.svg" alt="ISMS"></figure></li>
+        <li><figure><img src="/_assets/common/images/mark-jpx.svg" alt="JPX"></figure></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-other-links">
+    <ul>
+      <li><a href="https://www.glad-cube.com/privacy.html" target="_blank">個人情報保護方針</a></li>
+      <li><a href="https://www.glad-cube.com/securitypolicy.html" target="_blank">情報セキュリティ基本方針</a></li>
+      <li><a href="https://www.glad-cube.com/cookie-policy.html" target="_blank">Cookieポリシー</a></li>
+      <li><a href="https://www.glad-cube.com/isms.html" target="_blank">ISMS認証の取得</a></li>
+      <li><a href="https://www.glad-cube.com/ad-quality.html" target="_blank">広告品質ポリシー</a></li>
+      <li><a href="https://www.glad-cube.com/guideline.html" target="_blank">商標について</a></li>
+      <li><a href="https://www.glad-cube.com/requirements.html" target="_blank">推奨環境</a></li>
+    </ul>
+    <ul class="isms spb">
+      <li><figure><a href="https://privacymark.jp/" target="_blank"><img src="/_assets/common/images/mark-pp.svg" alt="たいせつにしますプライバシー"></a></figure></li>
+      <li><figure><img src="/_assets/common/images/mark-isms.svg" alt="ISMS"></figure></li>
+      <li><figure><img src="/_assets/common/images/mark-jpx.svg" alt="JPX"></figure></li>
+    </ul>
+    <p class="copy">サイト内の記事・写真・アーカイブ・ドキュメントなど、<br class="spb">すべてのコンテンツの無断複写・転載等を禁じます。<br class="spb">Copyright&copy; 株式会社グラッドキューブ All Rights Reserved.</p>
+  </div>
+  <figure><img src="/_assets/common/images/logo-gc-large.svg" alt=""></figure>
+</footer>
+
+<script src="//cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script src="/_assets/common/js/app.js"></script>
+<script src="/_assets/js/app.js"></script>
+</body>
+</html>

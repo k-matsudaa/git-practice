@@ -10,12 +10,13 @@ app.use(express.urlencoded({ extended: true }));
 
 // ==========================================
 // MySQL データベースへの接続設定
+// ★変更点：コードに直接書かず、process.env から外出しで受け取る
 // ==========================================
 const connection = mysql.createConnection({
-    host: 'db',
-    user: 'root',
-    password: 'password',
-    database: 'my_app_db'
+    host:     process.env.DB_HOST,     // docker-composeの「DB_HOST」から読み込む
+    user:     process.env.DB_USER,     // docker-composeの「DB_USER」から読み込む
+    password: process.env.DB_PASSWORD, // docker-composeの「DB_PASSWORD」から読み込む
+    database: process.env.DB_NAME      // docker-composeの「DB_NAME」から読み込む
 });
 
 // ==========================================
